@@ -1,0 +1,316 @@
+Transaction_ID,Date,Customer_Name,Product_Category,Product_Name,Price,Quantity,Total_Cost,Payment_Method,Discount_Applied,Features,Product_Details,Customer_Rating,Loyalty_Score
+TXN1000,2024-11-23,  Charlie  ,Cl0thing,T-Shirt,190.4,1,190.4,Cash,{},{'Eco-friendly'},"('BrandC', 'Blue', 'No Warranty')",5.0/5,61
+TXN1001,2024-02-27,Grace,Electr0nics,Tablet,475.6,4,1902.4,  PayPal  ,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandB', 'Blue', '1 Year')",5.0/5,61
+TXN1002,2024-01-13,Alice,  Gr0ceries  ,Rice,367.34,4,1469.36,Cash,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandB', 'Black', '2 Years')",4.0/5,93
+TXN1003,2024-05-20,Grace,Cl0thing,T-Shirt,301.34,2,602.68,Credit Card,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'Blue', '1 Year')",4.5/5,94
+TXN1004,2024-05-05,Emma,Electr0nics,Laptop,82.23,3,246.69,Cash,{},{'Waterproof'},"('BrandA', 'White', '2 Years')",4.0/5,23
+TXN1005,2024-04-24,Hassan,Cl0thing,Jeans,82.22,3,246.66,PayPal,{},{'Wireless'},"('BrandB', 'Black', '2 Years')",4.5/5,54
+TXN1006,2024-03-12,Emma,  Cl0thing  ,Jeans,33.75,3,101.25,PayPal,"{'discount': 10, 'type': 'percentage'}",{'Rechargeable'},"('BrandA', 'Black', '2 Years')",3.5/5,8
+TXN1007,2024-02-22,grace,Cl0thing,Jacket,433.76,4,1735.04,Credit Card,{},{'Eco-friendly'},"('BrandA', 'White', 'No Warranty')",5.0/5,2
+TXN1008,2024-12-12,ivy,Gr0ceries,Milk,302.55,4,1210.2,PayPal,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Compact'}","('BrandC', 'Blue', '2 Years')",3.5/5,30
+TXN1009,2024-10-06,Hassan,Electr0nics,,355.5,4,1422.0,Cash,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",4.5/5,39
+TXN1010,2024-02-14,Charlie,Electr0nics,Laptop,15.19,1,15.19,PayPal,{},"{'Rechargeable', 'Compact'}","('BrandA', 'White', '2 Years')",4.0/5,100
+TXN1011,2024-10-29,David,Electr0nics,Tablet,485.11,2,970.22,Cash,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandC', 'White', '2 Years')",3.5/5,35
+TXN1012,2024-08-04,Emma,Electr0nics,Smartphone,417.06,4,1668.24,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Wireless'},"('BrandB', 'Black', '2 Years')",4.0/5,23
+TXN1013,2024-01-17,David,Cl0thing,Sweater,110.11,2,220.22,  Credit Card  ,"{'discount': 15, 'type': 'percentage'}","{'Rechargeable', 'Waterproof'}","('BrandC', 'Blue', '2 Years')",3.5/5,94
+TXN1014,2024-01-16,Alice,Gr0ceries,Rice,95.0,2,190.0,PayPal,{},"{'Eco-friendly', 'Compact'}","('BrandB', 'Blue', '2 Years')",4.5/5,5
+TXN1015,2024-02-17,JACK,Electr0nics,,95.79,3,287.37,Credit Card,"{'discount': 15, 'type': 'percentage'}",{'Compact'},"('BrandB', 'Blue', '2 Years')",3.5/5,65
+TXN1016,2024-04-21,Ivy,Gr0ceries,Eggs,155.6,1,155.6,PayPal,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandB', 'Black', 'No Warranty')",4.5/5,83
+TXN1017,2024-04-29,Alice,Electr0nics,Tablet,264.75,4,1059.0,Credit Card,{},"{'Compact', 'Waterproof'}","('BrandC', 'White', 'No Warranty')",4.5/5,91
+TXN1018,2024-09-15,FAISAL,Electr0nics,Headphones,218.81,3,656.4300000000001,Cash,{},{'Compact'},"('BrandA', 'Black', '2 Years')",3.5/5,74
+TXN1019,2024-11-04,Alice,Cl0thing,T-Shirt,149.16,3,447.48,Cash,{},{'Eco-friendly'},"('BrandB', 'White', '2 Years')",3.5/5,3
+TXN1020,2024-01-14,Alice,Cl0thing,T-Shirt,307.87,4,1231.48,Cash,"{'discount': 15, 'type': 'percentage'}",{'Wireless'},"('BrandA', 'Blue', 'No Warranty')",3.5/5,78
+TXN1021,2024-10-14,Jack,Cl0thing,Jeans,74.05,2,148.1,Cash,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Wireless'}","('BrandC', 'Blue', 'No Warranty')",5.0/5,5
+TXN1022,2024-04-11,Hassan,Gr0ceries,Bread,149.61,3,448.83000000000004,Credit Card,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandC', 'Red', 'No Warranty')",5.0/5,93
+TXN1023,2024-11-28,Ivy,Cl0thing,Jacket,186.35,2,372.7,Credit Card,"{'discount': 10, 'type': 'percentage'}",{'Compact'},"('BrandB', 'Blue', '2 Years')",5.0/5,50
+TXN1024,2024-12-25,Ivy,Cl0thing,T-Shirt,230.75,1,230.75,Cash,{},"{'Eco-friendly', 'Wireless'}","('BrandB', 'Red', '2 Years')",5.0/5,61
+TXN1025,2024-10-06,Charlie,Electr0nics,Smartphone,393.66,2,787.32,Cash,{},"{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandC', 'White', '1 Year')",5.0/5,56
+TXN1026,2024-08-02,Alice,Electr0nics,Smartphone,103.84,1,103.84,Cash,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandC', 'Black', '1 Year')",4.0/5,65
+TXN1027,2024-04-22,Ivy,Cl0thing,Jeans,259.55,2,519.1,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'Blue', 'No Warranty')",3.5/5,78
+TXN1028,2024-08-17,Bob,Cl0thing,T-Shirt,298.25,3,894.75,nan,"{'discount': 5, 'type': 'percentage'}",{'Waterproof'},"('BrandB', 'White', '1 Year')",3.5/5,74
+TXN1029,2024-10-28,Charlie,  Gr0ceries  ,Bread,27.99,3,83.97,Credit Card,{},{'Waterproof'},"('BrandB', 'White', 'No Warranty')",4.5/5,7
+TXN1030,2024-05-22,Bob,Gr0ceries,Milk,305.73,1,305.73,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'White', 'No Warranty')",3.5/5,25
+TXN1031,2024-01-04,Jack,Electr0nics,Tablet,89.41,4,357.64,Credit Card,{},{'Compact'},"('BrandA', 'Black', 'No Warranty')",,50
+TXN1032,2024-03-22,Bob,Gr0ceries,Rice,37.2,1,37.2,PayPal,{},"{'Compact', 'Waterproof'}","('BrandC', 'Red', '1 Year')",5.0/5,44
+TXN1033,2024-12-23,David,Cl0thing,Sweater,474.7,1,474.7,nan,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Compact'}","('BrandA', 'Black', '1 Year')",3.5/5,43
+TXN1034,2024-08-04,Grace,Cl0thing,Jacket,482.99,2,965.98,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandC', 'Red', 'No Warranty')",3.5/5,4
+TXN1035,2024-06-23,Bob,Electr0nics,Laptop,405.16,2,810.32,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandC', 'White', '2 Years')",5.0/5,69
+TXN1036,2024-05-22,Jack,Cl0thing,Jeans,155.78,1,155.78,Credit Card,{},{'Waterproof'},"('BrandB', 'Red', '1 Year')",5.0/5,25
+TXN1037,2024-03-20,  David  ,Cl0thing,Jacket,53.35,3,160.05,PayPal,"{'discount': 10, 'type': 'percentage'}",{'Rechargeable'},"('BrandA', 'Black', '1 Year')",4.0/5,67
+TXN1038,2024-04-20,JACK,Cl0thing,Jacket,343.7,2,687.4,PayPal,{},"{'Rechargeable', 'Compact'}","('BrandC', 'Blue', '2 Years')",5.0/5,18
+TXN1039,2024-06-21,  Jack  ,Cl0thing,Sweater,222.88,4,891.52,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandB', 'White', '2 Years')",3.5/5,83
+TXN1040,2024-02-22,Alice,  Gr0ceries  ,Milk,65.41,2,130.82,Cash,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandC', 'Blue', '2 Years')",4.0/5,96
+TXN1041,2024-02-17,JACK,Gr0ceries,Bread,250.11,2,500.22,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable'}","('BrandA', 'White', '1 Year')",4.5/5,19
+TXN1042,2024-07-13,Bob,Gr0ceries,Eggs,22.02,4,88.08,PayPal,"{'discount': 10, 'type': 'percentage'}",{'Eco-friendly'},"('BrandB', 'White', '1 Year')",4.5/5,11
+TXN1043,2024-02-19,Grace,Gr0ceries,Bread,455.11,1,455.11,Cash,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Compact', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",3.5/5,46
+TXN1044,2024-07-02,Jack,Gr0ceries,Rice,133.1,4,532.4,Credit Card,{},{'Rechargeable'},"('BrandB', 'Black', '2 Years')",5.0/5,0
+TXN1045,2024-06-25,Jack,Electr0nics,Laptop,332.95,1,332.95,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandA', 'White', '2 Years')",4.5/5,89
+TXN1046,2024-11-05,Ivy,Cl0thing,Jeans,159.3,1,159.3,Credit Card,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Compact'}","('BrandB', 'Red', '2 Years')",,13
+TXN1047,2024-05-15,  Faisal  ,Electr0nics,Smartphone,262.43,1,262.43,Credit Card,{},{'Waterproof'},"('BrandC', 'White', '2 Years')",,63
+TXN1048,2024-01-23,Emma,Cl0thing,Jacket,275.62,4,1102.48,Cash,{},"{'Rechargeable', 'Compact'}","('BrandA', 'Black', '1 Year')",5.0/5,37
+TXN1049,2024-08-23,DAVID,Cl0thing,Jeans,96.5,1,96.5,PayPal,{},{'Wireless'},"('BrandC', 'Red', '1 Year')",3.5/5,36
+TXN1050,2024-10-01,Faisal,  Cl0thing  ,T-Shirt,484.94,3,1454.82,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Compact'}","('BrandB', 'Red', 'No Warranty')",4.5/5,10
+TXN1051,2024-03-04,nan,Electr0nics,Laptop,388.69,4,1554.76,Cash,{},{'Wireless'},"('BrandA', 'Blue', 'No Warranty')",5.0/5,99
+TXN1052,2024-07-12,Emma,Cl0thing,Jeans,470.05,3,1410.15,nan,{},"{'Rechargeable', 'Compact'}","('BrandA', 'Blue', '2 Years')",4.5/5,76
+TXN1053,2024-02-10,Grace,Cl0thing,Jacket,447.94,1,447.94,Credit Card,{},"{'Eco-friendly', 'Rechargeable'}","('BrandC', 'White', '2 Years')",5.0/5,2
+TXN1054,2024-10-09,Charlie,Gr0ceries,,300.96,2,601.92,Cash,{},{'Waterproof'},"('BrandA', 'White', 'No Warranty')",4.5/5,32
+TXN1055,2024-05-30,emma,  Gr0ceries  ,Rice,461.33,1,461.33,Credit Card,{},"{'Rechargeable', 'Compact'}","('BrandA', 'Blue', 'No Warranty')",,5
+TXN1056,2024-11-17,Hassan,  Cl0thing  ,T-Shirt,48.8,3,146.39999999999998,  Cash  ,{},{'Wireless'},"('BrandC', 'White', '2 Years')",4.0/5,49
+TXN1057,2024-11-12,  Faisal  ,  Gr0ceries  ,Rice,102.01,3,306.03000000000003,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",5.0/5,9
+TXN1058,2024-07-04,Bob,Electr0nics,Headphones,27.39,4,109.56,Credit Card,{},"{'Rechargeable', 'Compact'}","('BrandC', 'White', '2 Years')",5.0/5,4
+TXN1059,2024-10-22,alice,Cl0thing,Sweater,166.04,2,332.08,PayPal,{},"{'Compact', 'Waterproof'}","('BrandA', 'Blue', '1 Year')",,22
+TXN1060,2024-04-08,HASSAN,Electr0nics,Headphones,197.4,4,789.6,PayPal,{},{'Rechargeable'},"('BrandB', 'Red', 'No Warranty')",4.5/5,9
+TXN1061,2024-12-26,Jack,Gr0ceries,Rice,139.32,3,417.96,Credit Card,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandA', 'Blue', '2 Years')",4.5/5,43
+TXN1062,2024-02-05,Jack,Gr0ceries,Rice,415.23,1,415.23,Cash,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'Blue', '2 Years')",4.0/5,1
+TXN1063,2024-01-24,BOB,Electr0nics,Laptop,181.59,2,363.18,Credit Card,{},{'Rechargeable'},"('BrandA', 'Black', 'No Warranty')",3.5/5,12
+TXN1064,2024-12-04,Bob,  Cl0thing  ,T-Shirt,144.06,1,144.06,Credit Card,{},{'Compact'},"('BrandB', 'Black', 'No Warranty')",,39
+TXN1065,2024-04-26,Ivy,  Gr0ceries  ,Rice,273.63,1,273.63,Cash,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'White', 'No Warranty')",5.0/5,1
+TXN1066,2024-05-28,David,Gr0ceries,Eggs,74.76,2,149.52,Cash,"{'discount': 5, 'type': 'percentage'}","{'Rechargeable', 'Waterproof'}","('BrandA', 'Black', '2 Years')",4.0/5,83
+TXN1067,2024-02-10,Ivy,Gr0ceries,Eggs,402.09,4,1608.36,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'Blue', 'No Warranty')",5.0/5,64
+TXN1068,2024-04-29,Emma,Electr0nics,Laptop,41.9,1,41.9,Cash,"{'discount': 10, 'type': 'percentage'}","{'Rechargeable', 'Compact', 'Waterproof'}","('BrandC', 'Black', 'No Warranty')",5.0/5,62
+TXN1069,2024-02-21,Charlie,Electr0nics,Laptop,493.51,3,1480.53,PayPal,{},{'Rechargeable'},"('BrandC', 'Red', 'No Warranty')",5.0/5,100
+TXN1070,2024-07-13,Faisal,Gr0ceries,Bread,387.26,1,403.26,Cash,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Compact'}","('BrandA', 'Black', '1 Year')",4.0/5,72
+TXN1071,2024-05-22,Bob,Cl0thing,T-Shirt,103.36,2,206.72,PayPal,{},{'Wireless'},"('BrandA', 'Black', '1 Year')",3.5/5,16
+TXN1072,2024-08-20,david,Electr0nics,Headphones,7.73,2,15.46,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandA', 'Black', 'No Warranty')",3.5/5,8
+TXN1073,2024-11-21,Faisal,Cl0thing,T-Shirt,408.65,2,817.3,PayPal,{},{'Waterproof'},"('BrandA', 'White', '2 Years')",4.0/5,74
+TXN1074,2024-07-05,Emma,Electr0nics,Smartphone,354.89,4,1419.56,Cash,{},{'Wireless'},"('BrandC', 'Blue', 'No Warranty')",,14
+TXN1075,2024-03-24,  Charlie  ,  Electr0nics  ,Tablet,365.86,1,365.86,Cash,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'White', '1 Year')",4.0/5,23
+TXN1076,2024-07-08,Hassan,Cl0thing,Sweater,386.78,4,1547.12,Credit Card,{},"{'Wireless', 'Compact'}","('BrandB', 'Blue', 'No Warranty')",4.0/5,37
+TXN1077,2024-06-30,Ivy,Cl0thing,Jacket,41.65,4,166.6,Cash,{},"{'Eco-friendly', 'Compact'}","('BrandA', 'White', '2 Years')",5.0/5,34
+TXN1078,2024-04-17,EMMA,Cl0thing,Jeans,182.44,2,364.88,Cash,{},{'Rechargeable'},"('BrandA', 'Blue', '2 Years')",,93
+TXN1079,2024-12-09,  Jack  ,Electr0nics,Tablet,62.36,2,124.72,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'Red', '2 Years')",4.0/5,94
+TXN1080,2024-05-16,Ivy,Cl0thing,Sweater,432.24,4,1728.96,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandA', 'White', '1 Year')",4.0/5,48
+TXN1081,2024-12-25,Alice,Cl0thing,T-Shirt,313.53,1,313.53,  Cash  ,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandA', 'White', 'No Warranty')",4.5/5,68
+TXN1082,2024-12-15,Ivy,Cl0thing,Sweater,168.79,3,506.37,nan,{},"{'Eco-friendly', 'Waterproof'}","('BrandC', 'White', '2 Years')",3.5/5,61
+TXN1083,2024-11-27,Emma,Cl0thing,Jacket,36.46,4,145.84,Cash,{},"{'Eco-friendly', 'Compact'}","('BrandC', 'White', '2 Years')",,59
+TXN1084,2024-02-06,Bob,  Cl0thing  ,Sweater,158.94,1,158.94,PayPal,{},"{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandC', 'White', '2 Years')",4.5/5,49
+TXN1085,2024-11-07,  Charlie  ,Cl0thing,Jacket,165.97,2,331.94,Cash,{},"{'Eco-friendly', 'Wireless', 'Compact'}","('BrandA', 'Red', 'No Warranty')",5.0/5,77
+TXN1086,2024-11-21,emma,Cl0thing,Jacket,366.16,2,715.32,Cash,{},{'Compact'},"('BrandA', 'Blue', '2 Years')",3.5/5,74
+TXN1087,2024-03-28,bob,Electr0nics,Laptop,320.59,1,320.59,  Credit Card  ,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandA', 'Black', '1 Year')",5.0/5,8
+TXN1088,2024-09-30,  Bob  ,Cl0thing,Jeans,444.17,3,1332.51,Cash,"{'discount': 5, 'type': 'percentage'}",{'Wireless'},"('BrandC', 'Black', '1 Year')",4.0/5,33
+TXN1089,2024-05-05,IVY,Electr0nics,Headphones,238.75,2,477.5,PayPal,{},{'Compact'},"('BrandB', 'White', 'No Warranty')",3.5/5,75
+TXN1090,2024-03-24,Charlie,Gr0ceries,Rice,64.2,2,128.4,Cash,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandC', 'Red', 'No Warranty')",3.5/5,98
+TXN1091,2024-08-24,Emma,Gr0ceries,Rice,358.06,2,716.12,Credit Card,{},"{'Eco-friendly', 'Rechargeable'}","('BrandA', 'Black', 'No Warranty')",4.5/5,34
+TXN1092,2024-07-13,EMMA,Electr0nics,Headphones,381.59,1,381.59,Cash,{},{'Rechargeable'},"('BrandB', 'Red', 'No Warranty')",4.5/5,0
+TXN1093,2024-05-18,jack,Cl0thing,Sweater,282.83,4,1116.32,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'Blue', '2 Years')",5.0/5,39
+TXN1094,2024-11-23,david,Electr0nics,Laptop,386.63,2,773.26,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",5.0/5,63
+TXN1095,2024-12-18,Faisal,Gr0ceries,Rice,249.43,4,997.72,Credit Card,{},{'Compact'},"('BrandA', 'White', '2 Years')",,21
+TXN1096,2024-10-12,David,Electr0nics,Laptop,263.75,3,776.25,Cash,"{'discount': 15, 'type': 'percentage'}",{'Compact'},"('BrandB', 'Red', '2 Years')",4.0/5,59
+TXN1097,2024-04-22,Emma,Gr0ceries,Eggs,216.63,2,433.26,Cash,{},"{'Rechargeable', 'Compact'}","('BrandA', 'Blue', '1 Year')",5.0/5,63
+TXN1098,2024-12-16,ivy,  Electr0nics  ,Headphones,17.58,2,35.16,PayPal,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandC', 'Black', 'No Warranty')",,92
+TXN1099,2024-06-15,Hassan,Electr0nics,Headphones,58.41,3,175.23,Cash,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandC', 'White', '1 Year')",4.5/5,71
+TXN1100,2024-01-29,Emma,Electr0nics,Laptop,20.56,2,41.12,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandC', 'Blue', '1 Year')",3.5/5,10
+TXN1101,2024-04-27,Alice,Electr0nics,Tablet,320.02,4,1280.08,Cash,{},{'Eco-friendly'},"('BrandA', 'Red', 'No Warranty')",4.5/5,100
+TXN1102,2024-01-17,Bob,Electr0nics,Laptop,160.61,1,160.61,  Credit Card  ,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'Black', 'No Warranty')",3.5/5,13
+TXN1103,2024-06-10,grace,  Gr0ceries  ,Rice,256.74,4,1026.96,Cash,{},"{'Wireless', 'Rechargeable'}","('BrandC', 'Blue', '2 Years')",4.5/5,59
+TXN1104,2024-07-24,EMMA,Electr0nics,Tablet,454.25,1,454.25,PayPal,{},"{'Eco-friendly', 'Rechargeable'}","('BrandC', 'Black', '2 Years')",5.0/5,29
+TXN1105,2024-05-17,Alice,Electr0nics,Laptop,128.4,1,128.4,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandC', 'Black', 'No Warranty')",3.5/5,34
+TXN1106,2024-02-03,  Alice  ,Electr0nics,Smartphone,208.14,4,832.56,Cash,{},"{'Wireless', 'Rechargeable', 'Compact'}","('BrandC', 'Red', '1 Year')",4.0/5,84
+TXN1107,2024-04-18,Faisal,Cl0thing,Jacket,379.0,4,1516.0,  Cash  ,{},"{'Eco-friendly', 'Wireless'}","('BrandB', 'Red', '2 Years')",5.0/5,36
+TXN1108,2024-10-17,Charlie,Gr0ceries,Rice,118.26,4,473.04,Credit Card,"{'discount': 15, 'type': 'percentage'}",{'Eco-friendly'},"('BrandC', 'Blue', 'No Warranty')",4.5/5,4
+TXN1109,2024-06-10,Emma,Electr0nics,Tablet,43.11,4,172.44,Cash,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandA', 'Blue', '1 Year')",5.0/5,82
+TXN1110,2024-04-18,Charlie,Gr0ceries,Milk,148.43,3,445.29,Cash,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandC', 'Black', '1 Year')",3.5/5,77
+TXN1111,2024-12-01,hassan,Electr0nics,Smartphone,84.8,2,169.6,PayPal,{},{'Compact'},"('BrandC', 'White', '2 Years')",4.0/5,25
+TXN1112,2024-09-12,Ivy,Cl0thing,Jacket,465.2,1,465.2,  Credit Card  ,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Compact'}","('BrandA', 'Black', 'No Warranty')",5.0/5,61
+TXN1113,2024-07-21,grace,Gr0ceries,Bread,405.02,4,1620.08,PayPal,"{'discount': 10, 'type': 'percentage'}",{'Waterproof'},"('BrandB', 'White', '2 Years')",4.5/5,3
+TXN1114,2024-11-25,Ivy,Cl0thing,Jacket,318.53,4,1274.12,Cash,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandA', 'Red', '2 Years')",4.0/5,88
+TXN1115,2024-08-22,Alice,Cl0thing,Sweater,436.37,4,1745.48,PayPal,{},{'Compact'},"('BrandC', 'Black', 'No Warranty')",,41
+TXN1116,2024-03-14,Bob,Electr0nics,Tablet,402.82,3,1208.46,Cash,{},{'Wireless'},"('BrandB', 'White', '2 Years')",5.0/5,88
+TXN1117,2024-05-15,  Bob  ,Gr0ceries,Milk,97.35,4,389.4,Credit Card,{},{'Waterproof'},"('BrandB', 'Red', 'No Warranty')",3.5/5,17
+TXN1118,2024-03-12,Charlie,Gr0ceries,Milk,446.82,4,1787.28,Credit Card,{},"{'Eco-friendly', 'Rechargeable'}","('BrandA', 'White', 'No Warranty')",4.0/5,39
+TXN1119,2024-05-06,Ivy,Gr0ceries,Bread,271.97,4,1087.88,  Credit Card  ,{},{'Wireless'},"('BrandC', 'Black', '1 Year')",4.0/5,71
+TXN1120,2024-10-14,Alice,  Gr0ceries  ,Bread,404.68,2,809.36,PayPal,{},{'Compact'},"('BrandC', 'White', '1 Year')",,38
+TXN1121,2024-10-02,Faisal,Electr0nics,Headphones,448.57,3,1345.71,PayPal,{},{'Rechargeable'},"('BrandB', 'Blue', '2 Years')",,13
+TXN1122,2024-05-14,Jack,Electr0nics,Laptop,162.41,4,649.64,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'Black', '2 Years')",4.0/5,31
+TXN1123,2024-10-26,Ivy,Cl0thing,Sweater,59.48,1,59.48,Credit Card,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandB', 'Blue', 'No Warranty')",5.0/5,50
+TXN1124,2024-08-07,Charlie,Electr0nics,Laptop,117.83,1,126.83,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Waterproof'}","('BrandB', 'Black', 'No Warranty')",3.5/5,37
+TXN1125,2024-10-25,Grace,Gr0ceries,Bread,216.42,1,216.42,Cash,"{'discount': 5, 'type': 'percentage'}",{'Compact'},"('BrandA', 'Red', '1 Year')",4.0/5,96
+TXN1126,2024-07-23,  Charlie  ,Electr0nics,Laptop,409.92,3,1229.76,PayPal,"{'discount': 10, 'type': 'percentage'}",{'Compact'},"('BrandC', 'White', '1 Year')",5.0/5,22
+TXN1127,2024-07-04,Alice,Cl0thing,Sweater,431.06,3,1293.18,Cash,{},"{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",5.0/5,62
+TXN1128,2024-04-22,Emma,Gr0ceries,Milk,8.44,1,8.44,PayPal,"{'discount': 15, 'type': 'percentage'}",{'Waterproof'},"('BrandB', 'Red', '2 Years')",4.5/5,14
+TXN1129,2024-03-11,Faisal,Gr0ceries,Bread,257.82,4,1031.28,PayPal,{},"{'Wireless', 'Rechargeable'}","('BrandA', 'Blue', 'No Warranty')",4.5/5,96
+TXN1130,2024-09-17,Alice,Cl0thing,Sweater,211.62,3,634.86,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandB', 'Blue', '2 Years')",3.5/5,24
+TXN1131,2024-09-09,FAISAL,Cl0thing,Jacket,114.94,1,114.94,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Compact', 'Waterproof'}","('BrandA', 'Black', '2 Years')",5.0/5,16
+TXN1132,2024-02-16,David,  Gr0ceries  ,Eggs,64.33,1,64.33,Credit Card,{},"{'Eco-friendly', 'Rechargeable'}","('BrandA', 'Black', 'No Warranty')",,96
+TXN1133,2024-01-25,David,Electr0nics,Tablet,172.12,4,688.48,PayPal,{},"{'Rechargeable', 'Compact', 'Waterproof'}","('BrandC', 'Blue', '1 Year')",4.0/5,65
+TXN1134,2024-02-26,Bob,Electr0nics,Tablet,471.74,2,943.48,Cash,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandB', 'Black', 'No Warranty')",4.0/5,77
+TXN1135,2024-03-19,FAISAL,Gr0ceries,Rice,164.99,3,494.97,Cash,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandC', 'Blue', '2 Years')",4.5/5,52
+TXN1136,2024-11-17,ivy,  Gr0ceries  ,Bread,261.8,4,1047.2,Credit Card,{},{'Rechargeable'},"('BrandC', 'Red', 'No Warranty')",3.5/5,50
+TXN1137,2024-03-22,Grace,Gr0ceries,Rice,352.99,1,352.99,Credit Card,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandA', 'Red', '1 Year')",3.5/5,38
+TXN1138,2024-12-14,Jack,Electr0nics,Smartphone,185.0,1,185.0,Credit Card,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'Red', '1 Year')",4.0/5,50
+TXN1139,2024-08-04,Charlie,Electr0nics,Tablet,486.03,4,1944.12,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Compact'}","('BrandC', 'Blue', 'No Warranty')",3.5/5,69
+TXN1140,2024-11-01,David,Gr0ceries,Bread,481.41,3,1444.23,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandC', 'White', '1 Year')",4.5/5,5
+TXN1141,2024-02-02,charlie,Cl0thing,Jeans,129.63,2,259.26,Credit Card,{},"{'Rechargeable', 'Waterproof'}","('BrandA', 'Black', '1 Year')",4.5/5,66
+TXN1142,2024-07-16,Charlie,Gr0ceries,Milk,251.14,2,502.28,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Compact', 'Waterproof'}","('BrandB', 'Blue', '2 Years')",5.0/5,6
+TXN1143,2024-07-14,Grace,Gr0ceries,Eggs,153.93,1,153.93,Credit Card,{},"{'Eco-friendly', 'Wireless'}","('BrandA', 'Blue', '2 Years')",5.0/5,50
+TXN1144,2024-11-01,Alice,Electr0nics,Tablet,146.0,3,438.0,Cash,{},{'Eco-friendly'},"('BrandA', 'Red', '1 Year')",5.0/5,71
+TXN1145,2024-08-27,charlie,Gr0ceries,Eggs,23.26,2,46.52,Cash,{},"{'Wireless', 'Rechargeable'}","('BrandB', 'Black', '2 Years')",5.0/5,41
+TXN1146,2024-09-27,Faisal,Electr0nics,Headphones,306.73,3,920.19,Credit Card,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Compact'}","('BrandA', 'White', '1 Year')",3.5/5,63
+TXN1147,2024-05-08,Grace,Cl0thing,T-Shirt,253.83,3,761.49,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Compact', 'Waterproof'}","('BrandC', 'Blue', '1 Year')",4.5/5,14
+TXN1148,2024-10-10,David,Gr0ceries,Eggs,30.48,1,30.48,Cash,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandC', 'Red', 'No Warranty')",4.5/5,28
+TXN1149,2024-01-06,Emma,Cl0thing,Jacket,142.93,2,285.86,Cash,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandC', 'Blue', '2 Years')",3.5/5,32
+TXN1150,2024-12-14,  Charlie  ,Gr0ceries,Rice,454.59,4,1818.36,Cash,{},{'Rechargeable'},"('BrandB', 'Blue', 'No Warranty')",4.5/5,93
+TXN1151,2024-02-28,Bob,Cl0thing,Jeans,123.58,1,123.58,Credit Card,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandC', 'Blue', '2 Years')",4.5/5,26
+TXN1152,2024-12-15,Grace,Electr0nics,Tablet,76.72,2,153.44,PayPal,{},{'Eco-friendly'},"('BrandC', 'White', '1 Year')",4.5/5,35
+TXN1153,2024-10-01,ALICE,Gr0ceries,Rice,247.28,2,494.56,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Compact'}","('BrandA', 'Red', '1 Year')",4.5/5,28
+TXN1154,2024-05-16,Hassan,Gr0ceries,Eggs,492.9,2,985.8,PayPal,{},{'Wireless'},"('BrandA', 'White', '2 Years')",4.0/5,37
+TXN1155,2024-11-24,David,Cl0thing,Jacket,124.82,2,249.64,PayPal,{},"{'Wireless', 'Rechargeable'}","('BrandB', 'Black', '1 Year')",5.0/5,56
+TXN1156,2024-06-23,David,Electr0nics,Tablet,337.71,2,675.42,  PayPal  ,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Compact'}","('BrandA', 'Black', 'No Warranty')",4.0/5,96
+TXN1157,2024-02-27,Hassan,Cl0thing,Sweater,382.0,3,1146.0,Credit Card,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandA', 'Blue', 'No Warranty')",5.0/5,100
+TXN1158,2024-05-30,Faisal,Cl0thing,Jacket,122.63,1,122.63,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Compact'}","('BrandC', 'Black', 'No Warranty')",4.5/5,26
+TXN1159,2024-08-10,Emma,Electr0nics,Smartphone,365.47,3,1096.41,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandA', 'Black', '1 Year')",5.0/5,54
+TXN1160,2024-03-21,David,Cl0thing,Jeans,187.05,4,748.2,PayPal,{},"{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandC', 'Blue', 'No Warranty')",3.5/5,32
+TXN1161,2024-08-20,David,Cl0thing,Sweater,317.99,2,635.98,Credit Card,{},{'Waterproof'},"('BrandB', 'Black', 'No Warranty')",4.0/5,67
+TXN1162,2024-01-02,nan,  Gr0ceries  ,Bread,318.6,1,318.6,  Credit Card  ,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Compact'}","('BrandA', 'Blue', '2 Years')",4.0/5,85
+TXN1163,2024-05-14,David,Cl0thing,Sweater,270.21,2,540.42,PayPal,{},"{'Wireless', 'Rechargeable', 'Compact'}","('BrandB', 'Red', '1 Year')",5.0/5,65
+TXN1164,2024-09-13,Grace,Gr0ceries,Milk,49.69,1,49.69,PayPal,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandB', 'Red', 'No Warranty')",4.5/5,9
+TXN1165,2024-04-01,Faisal,Electr0nics,Headphones,418.47,3,1255.41,Credit Card,"{'discount': 15, 'type': 'percentage'}",{'Compact'},"('BrandA', 'Black', '2 Years')",4.0/5,4
+TXN1166,2024-09-16,Emma,Cl0thing,Sweater,163.79,1,163.79,Cash,"{'discount': 10, 'type': 'percentage'}","{'Rechargeable', 'Waterproof'}","('BrandA', 'White', 'No Warranty')",4.0/5,73
+TXN1167,2024-02-24,Bob,Electr0nics,Tablet,97.33,4,389.32,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Rechargeable'},"('BrandB', 'Black', 'No Warranty')",5.0/5,96
+TXN1168,2024-11-16,Emma,Gr0ceries,Rice,25.18,4,100.72,Cash,{},{'Compact'},"('BrandC', 'Blue', '2 Years')",4.5/5,37
+TXN1169,2024-06-01,Faisal,Gr0ceries,Bread,297.49,1,297.49,PayPal,{},"{'Rechargeable', 'Waterproof'}","('BrandA', 'Red', 'No Warranty')",4.0/5,12
+TXN1170,2024-11-23,IVY,Gr0ceries,Rice,340.39,1,340.39,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandA', 'Red', '2 Years')",4.5/5,30
+TXN1171,2024-09-16,GRACE,Cl0thing,T-Shirt,13.21,1,13.21,PayPal,{},{'Rechargeable'},"('BrandA', 'Red', '1 Year')",4.0/5,46
+TXN1172,2024-11-07,Ivy,  Gr0ceries  ,Bread,258.49,1,258.49,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Waterproof'}","('BrandB', 'Black', 'No Warranty')",4.5/5,99
+TXN1173,2024-04-11,Faisal,Gr0ceries,Eggs,117.12,4,468.48,Cash,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Compact', 'Waterproof'}","('BrandC', 'White', '2 Years')",4.5/5,87
+TXN1174,2024-03-19,Alice,  Cl0thing  ,T-Shirt,324.36,2,648.72,  Credit Card  ,"{'discount': 5, 'type': 'percentage'}","{'Compact', 'Waterproof'}","('BrandC', 'White', '1 Year')",4.5/5,51
+TXN1175,2024-07-10,BOB,Cl0thing,Sweater,91.31,1,92.31,Credit Card,"{'discount': 5, 'type': 'percentage'}",{'Rechargeable'},"('BrandC', 'Blue', '2 Years')",3.5/5,55
+TXN1176,2024-03-23,Emma,Cl0thing,T-Shirt,347.01,1,347.01,Cash,{},{'Eco-friendly'},"('BrandA', 'Black', '1 Year')",3.5/5,14
+TXN1177,2024-10-03,  Charlie  ,  Gr0ceries  ,Rice,196.43,4,785.72,Credit Card,{},"{'Wireless', 'Compact'}","('BrandC', 'Blue', '1 Year')",4.0/5,28
+TXN1178,2024-09-28,Jack,Gr0ceries,Milk,468.68,4,1874.72,Credit Card,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandC', 'Black', '2 Years')",5.0/5,7
+TXN1179,2024-01-01,Emma,Cl0thing,Jeans,73.07,3,219.20999999999998,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Rechargeable', 'Compact'}","('BrandC', 'Red', '2 Years')",5.0/5,4
+TXN1180,2024-11-02,Alice,  Cl0thing  ,Sweater,173.83,1,173.83,Credit Card,{},{'Compact'},"('BrandC', 'White', 'No Warranty')",,28
+TXN1181,2024-06-14,Bob,Electr0nics,Smartphone,61.17,3,183.51,  Credit Card  ,{},{'Eco-friendly'},"('BrandA', 'Red', '1 Year')",4.0/5,46
+TXN1182,2024-09-07,Jack,Electr0nics,Laptop,462.72,4,1850.88,  PayPal  ,{},{'Wireless'},"('BrandA', 'White', '1 Year')",4.5/5,67
+TXN1183,2024-01-10,Grace,Cl0thing,Sweater,439.28,4,1757.12,Cash,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'Red', '2 Years')",5.0/5,75
+TXN1184,2024-02-27,faisal,Cl0thing,Jacket,132.68,2,265.36,Credit Card,{},{'Waterproof'},"('BrandC', 'Blue', '1 Year')",4.0/5,44
+TXN1185,2024-07-04,Faisal,Electr0nics,Headphones,331.69,1,331.69,Credit Card,{},{'Eco-friendly'},"('BrandA', 'Blue', 'No Warranty')",5.0/5,1
+TXN1186,2024-06-06,  Grace  ,  Cl0thing  ,Sweater,409.52,3,1228.56,Credit Card,{},"{'Rechargeable', 'Compact'}","('BrandA', 'Blue', '2 Years')",4.0/5,26
+TXN1187,2024-05-02,jack,Gr0ceries,Milk,279.82,4,1119.28,PayPal,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandB', 'Black', '1 Year')",3.5/5,94
+TXN1188,2024-01-30,Ivy,Gr0ceries,Eggs,267.18,4,1068.72,Credit Card,{},"{'Eco-friendly', 'Wireless'}","('BrandB', 'Blue', 'No Warranty')",,35
+TXN1189,2024-05-03,Bob,  Gr0ceries  ,,124.72,3,374.15999999999997,Credit Card,{},"{'Wireless', 'Waterproof'}","('BrandB', 'Red', '1 Year')",,35
+TXN1190,2024-10-17,Grace,Cl0thing,Jacket,51.09,2,102.18,Cash,{},{'Rechargeable'},"('BrandB', 'White', '2 Years')",4.0/5,25
+TXN1191,2024-02-10,Jack,Cl0thing,Sweater,449.12,4,1796.48,PayPal,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandC', 'Red', '2 Years')",3.5/5,42
+TXN1192,2024-02-13,David,Electr0nics,Laptop,450.71,1,450.71,nan,"{'discount': 10, 'type': 'percentage'}",{'Waterproof'},"('BrandC', 'Red', '2 Years')",5.0/5,26
+TXN1193,2024-09-05,Emma,Cl0thing,T-Shirt,318.39,4,1273.56,Cash,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandB', 'Black', '1 Year')",5.0/5,68
+TXN1194,2024-02-05,Alice,Cl0thing,Jeans,172.82,1,172.82,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandB', 'Blue', '2 Years')",5.0/5,19
+TXN1195,2024-09-29,Grace,Electr0nics,Headphones,177.86,3,533.58,Cash,{},{'Rechargeable'},"('BrandA', 'Black', '1 Year')",3.5/5,10
+TXN1196,2024-03-05,Alice,Cl0thing,Jeans,364.35,1,364.35,Cash,{},"{'Wireless', 'Compact'}","('BrandC', 'Red', '1 Year')",4.5/5,73
+TXN1197,2024-03-06,Ivy,Electr0nics,Laptop,449.07,3,1347.21,Credit Card,"{'discount': 10, 'type': 'percentage'}",{'Wireless'},"('BrandC', 'Red', '1 Year')",4.5/5,37
+TXN1198,2024-12-03,Ivy,Cl0thing,Sweater,444.11,1,444.11,Cash,{},"{'Eco-friendly', 'Wireless', 'Compact'}","('BrandA', 'Blue', '1 Year')",4.0/5,5
+TXN1199,2024-08-31,David,Cl0thing,T-Shirt,391.04,3,1173.1200000000001,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandB', 'Black', '2 Years')",,71
+TXN1200,2024-10-08,faisal,Cl0thing,T-Shirt,322.81,1,322.81,PayPal,{},"{'Wireless', 'Compact'}","('BrandA', 'Blue', '1 Year')",,22
+TXN1201,2024-03-25,Grace,  Cl0thing  ,Sweater,46.65,2,93.3,Credit Card,{},"{'Eco-friendly', 'Compact'}","('BrandC', 'White', '1 Year')",4.0/5,46
+TXN1202,2024-05-15,Bob,Gr0ceries,Bread,85.01,1,85.01,Cash,"{'discount': 5, 'type': 'percentage'}",{'Compact'},"('BrandB', 'Blue', '2 Years')",4.5/5,89
+TXN1203,2024-09-27,  Faisal  ,Gr0ceries,Eggs,449.78,1,449.78,PayPal,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandC', 'Black', '2 Years')",3.5/5,45
+TXN1204,2024-11-06,Jack,Cl0thing,T-Shirt,305.18,2,610.36,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Waterproof'}","('BrandA', 'Black', '1 Year')",4.5/5,11
+TXN1205,2024-08-04,Faisal,Gr0ceries,Milk,9.55,4,38.2,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandC', 'Red', '1 Year')",3.5/5,89
+TXN1206,2024-04-18,Bob,  Electr0nics  ,Headphones,55.23,4,220.92,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandA', 'Red', '2 Years')",4.5/5,12
+TXN1207,2024-10-03,  Emma  ,Gr0ceries,Milk,333.43,1,333.43,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandA', 'White', '2 Years')",4.5/5,61
+TXN1208,2024-12-19,Ivy,Electr0nics,Headphones,7.51,2,15.02,Credit Card,{},"{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandB', 'Black', '1 Year')",4.0/5,81
+TXN1209,2024-04-12,  Emma  ,Electr0nics,Headphones,84.6,1,96.6,PayPal,{},"{'Wireless', 'Rechargeable'}","('BrandC', 'White', '1 Year')",5.0/5,88
+TXN1210,2024-12-31,Grace,Electr0nics,Headphones,276.62,3,829.86,Cash,{},{'Compact'},"('BrandB', 'Blue', '2 Years')",4.0/5,96
+TXN1211,2024-06-08,Faisal,Gr0ceries,Rice,347.49,3,1042.47,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandC', 'Black', 'No Warranty')",5.0/5,59
+TXN1212,2024-07-23,Grace,Cl0thing,Jeans,327.72,1,327.72,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless'}","('BrandC', 'Blue', '2 Years')",,42
+TXN1213,2024-12-09,Emma,Cl0thing,Jeans,116.01,4,464.04,PayPal,{},{'Eco-friendly'},"('BrandB', 'White', '1 Year')",4.0/5,75
+TXN1214,2024-11-28,  Ivy  ,Gr0ceries,Rice,357.53,4,1430.12,Credit Card,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandC', 'Blue', '1 Year')",3.5/5,99
+TXN1215,2024-07-10,Charlie,Electr0nics,Smartphone,122.44,1,122.44,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Compact'},"('BrandA', 'White', '1 Year')",4.0/5,67
+TXN1216,2024-08-12,DAVID,Gr0ceries,Bread,166.07,1,166.07,Cash,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Compact', 'Waterproof'}","('BrandA', 'Black', 'No Warranty')",3.5/5,4
+TXN1217,2024-09-21,Grace,Cl0thing,Jeans,374.51,3,1123.53,Credit Card,{},"{'Compact', 'Waterproof'}","('BrandC', 'Red', '2 Years')",4.5/5,36
+TXN1218,2024-08-19,Grace,Gr0ceries,Milk,326.57,4,1306.28,PayPal,"{'discount': 15, 'type': 'percentage'}",{'Wireless'},"('BrandA', 'White', 'No Warranty')",3.5/5,71
+TXN1219,2024-03-02,Charlie,Gr0ceries,Rice,425.37,1,425.37,  Credit Card  ,{},"{'Wireless', 'Rechargeable', 'Compact'}","('BrandC', 'Black', '1 Year')",3.5/5,91
+TXN1220,2024-05-06,Jack,Cl0thing,Jeans,330.52,3,991.56,Credit Card,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandA', 'Blue', '2 Years')",3.5/5,30
+TXN1221,2024-04-25,  Jack  ,Cl0thing,Sweater,286.31,4,1145.24,Cash,"{'discount': 10, 'type': 'percentage'}","{'Wireless', 'Waterproof'}","('BrandB', 'Red', '1 Year')",,8
+TXN1222,2024-02-02,Emma,Electr0nics,Smartphone,51.37,2,102.74,PayPal,{},{'Waterproof'},"('BrandC', 'Black', '1 Year')",5.0/5,50
+TXN1223,2024-06-22,Grace,Electr0nics,Smartphone,187.02,3,561.0600000000001,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandA', 'Blue', 'No Warranty')",4.5/5,28
+TXN1224,2024-01-11,Ivy,Cl0thing,Sweater,136.28,4,545.12,Cash,{},"{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandB', 'Black', '2 Years')",4.0/5,77
+TXN1225,2024-10-28,nan,Electr0nics,Headphones,125.77,4,503.08,Cash,{},"{'Eco-friendly', 'Wireless', 'Compact'}","('BrandC', 'Red', 'No Warranty')",3.5/5,39
+TXN1226,2024-10-10,Emma,Cl0thing,Sweater,486.64,3,1459.92,PayPal,{},"{'Eco-friendly', 'Compact'}","('BrandA', 'Blue', 'No Warranty')",3.5/5,40
+TXN1227,2024-04-27,Emma,Gr0ceries,Eggs,199.58,2,399.16,  Credit Card  ,{},"{'Eco-friendly', 'Compact'}","('BrandB', 'Red', 'No Warranty')",4.5/5,85
+TXN1228,2024-10-28,David,Electr0nics,Laptop,446.56,3,1339.68,Cash,"{'discount': 10, 'type': 'percentage'}","{'Rechargeable', 'Compact', 'Waterproof'}","('BrandC', 'Red', '2 Years')",4.0/5,10
+TXN1229,2024-04-22,Grace,Cl0thing,Sweater,317.41,4,1269.64,Cash,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandC', 'Blue', '1 Year')",3.5/5,22
+TXN1230,2024-01-04,Jack,Gr0ceries,Eggs,398.43,1,398.43,Credit Card,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable'}","('BrandB', 'Black', '2 Years')",,0
+TXN1231,2024-02-06,Jack,Gr0ceries,Bread,253.81,1,253.81,PayPal,{},{'Compact'},"('BrandB', 'Black', '2 Years')",,45
+TXN1232,2024-12-28,Faisal,Cl0thing,T-Shirt,290.57,3,871.71,Credit Card,"{'discount': 10, 'type': 'percentage'}",{'Wireless'},"('BrandB', 'Black', '1 Year')",4.0/5,100
+TXN1233,2024-11-19,Hassan,Cl0thing,,248.8,4,995.2,Cash,{},{'Eco-friendly'},"('BrandA', 'Blue', '1 Year')",4.0/5,20
+TXN1234,2024-01-31,Hassan,Gr0ceries,Eggs,101.65,1,91.65,Credit Card,{},"{'Wireless', 'Rechargeable', 'Compact'}","('BrandC', 'Red', '1 Year')",5.0/5,89
+TXN1235,2024-04-27,Hassan,Gr0ceries,Eggs,362.61,4,1450.44,PayPal,{},{'Wireless'},"('BrandA', 'Blue', '2 Years')",3.5/5,35
+TXN1236,2024-02-04,David,Cl0thing,Sweater,143.98,3,431.93999999999994,Cash,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandB', 'Black', '2 Years')",4.0/5,53
+TXN1237,2024-01-17,Ivy,Cl0thing,Jacket,17.04,1,17.04,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandA', 'Black', '1 Year')",5.0/5,86
+TXN1238,2024-06-18,Hassan,Gr0ceries,Rice,324.51,4,1298.04,PayPal,{},"{'Eco-friendly', 'Wireless', 'Compact'}","('BrandB', 'Black', '2 Years')",3.5/5,56
+TXN1239,2024-02-06,Charlie,Gr0ceries,Eggs,92.67,1,92.67,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Rechargeable', 'Compact', 'Waterproof'}","('BrandB', 'Red', '1 Year')",,0
+TXN1240,2024-09-20,bob,Cl0thing,Jeans,470.53,3,1411.59,PayPal,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandA', 'Black', 'No Warranty')",,62
+TXN1241,2024-05-01,EMMA,Cl0thing,Sweater,477.19,4,1908.76,PayPal,{},"{'Rechargeable', 'Compact', 'Waterproof'}","('BrandC', 'Red', '1 Year')",5.0/5,53
+TXN1242,2024-05-22,Ivy,Gr0ceries,Rice,457.86,1,457.86,PayPal,{},"{'Rechargeable', 'Compact', 'Waterproof'}","('BrandB', 'Blue', '1 Year')",3.5/5,54
+TXN1243,2024-12-08,Jack,Cl0thing,T-Shirt,188.23,3,564.6899999999999,  PayPal  ,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandC', 'Blue', '2 Years')",3.5/5,39
+TXN1244,2024-09-05,Faisal,Cl0thing,Jeans,12.65,1,12.65,Cash,{},{'Wireless'},"('BrandB', 'Red', 'No Warranty')",3.5/5,14
+TXN1245,2024-04-19,Bob,Cl0thing,Sweater,464.52,1,464.52,PayPal,{},{'Wireless'},"('BrandB', 'Black', '1 Year')",4.0/5,20
+TXN1246,2024-10-03,David,Cl0thing,Jacket,216.95,2,433.9,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Wireless'},"('BrandA', 'White', '2 Years')",4.5/5,46
+TXN1247,2024-03-08,Emma,Electr0nics,Headphones,483.49,2,966.98,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandC', 'Blue', '1 Year')",3.5/5,72
+TXN1248,2024-10-19,  David  ,  Electr0nics  ,Headphones,481.99,3,1445.97,Credit Card,{},"{'Eco-friendly', 'Rechargeable', 'Compact'}","('BrandB', 'Red', '1 Year')",,52
+TXN1249,2024-10-22,David,  Gr0ceries  ,Milk,427.24,2,854.48,Cash,{},"{'Compact', 'Waterproof'}","('BrandA', 'Red', '1 Year')",3.5/5,8
+TXN1250,2024-08-30,Charlie,Electr0nics,Tablet,150.75,3,452.25,Cash,{},"{'Rechargeable', 'Compact', 'Waterproof'}","('BrandA', 'Blue', '1 Year')",4.5/5,73
+TXN1251,2024-05-04,alice,  Cl0thing  ,Jacket,195.62,2,391.24,  Credit Card  ,{},{'Compact'},"('BrandB', 'Black', 'No Warranty')",4.5/5,51
+TXN1252,2024-08-30,Alice,Electr0nics,Laptop,426.31,1,411.31,PayPal,{},"{'Eco-friendly', 'Compact', 'Waterproof'}","('BrandC', 'Red', 'No Warranty')",3.5/5,56
+TXN1253,2024-07-27,David,Gr0ceries,Milk,161.88,3,485.64,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandC', 'Black', '1 Year')",,25
+TXN1254,2024-04-07,Hassan,  Gr0ceries  ,Rice,88.9,3,266.70000000000005,Credit Card,{},{'Compact'},"('BrandA', 'Red', '1 Year')",3.5/5,40
+TXN1255,2024-02-18,Jack,Gr0ceries,Eggs,280.62,1,280.62,Credit Card,"{'discount': 10, 'type': 'percentage'}",{'Wireless'},"('BrandC', 'White', '1 Year')",,34
+TXN1256,2024-02-19,Bob,Electr0nics,Smartphone,468.4,3,1405.1999999999998,  Cash  ,"{'discount': 5, 'type': 'percentage'}",{'Compact'},"('BrandA', 'Black', '1 Year')",4.0/5,62
+TXN1257,2024-12-03,Hassan,Electr0nics,Headphones,349.53,3,1048.59,Cash,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Compact'}","('BrandA', 'White', '1 Year')",5.0/5,24
+TXN1258,2024-08-08,Grace,Electr0nics,Smartphone,287.18,2,574.36,Cash,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Waterproof'}","('BrandA', 'White', 'No Warranty')",4.5/5,89
+TXN1259,2024-06-30,Jack,Gr0ceries,Bread,53.1,3,159.3,PayPal,{},"{'Wireless', 'Rechargeable'}","('BrandB', 'White', '1 Year')",3.5/5,74
+TXN1260,2024-08-04,David,Cl0thing,Jacket,309.43,4,1237.72,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'White', '1 Year')",4.5/5,37
+TXN1261,2024-07-29,GRACE,Cl0thing,Jeans,495.08,1,495.08,Credit Card,"{'discount': 5, 'type': 'percentage'}",{'Waterproof'},"('BrandB', 'Blue', '1 Year')",5.0/5,1
+TXN1262,2024-08-27,nan,Gr0ceries,Milk,74.34,2,148.68,  Cash  ,{},{'Rechargeable'},"('BrandB', 'Black', '2 Years')",5.0/5,6
+TXN1263,2024-01-28,Grace,Gr0ceries,Milk,261.57,2,523.14,Cash,{},"{'Rechargeable', 'Compact'}","('BrandA', 'Red', 'No Warranty')",5.0/5,81
+TXN1264,2024-12-10,David,Gr0ceries,Eggs,439.3,4,1757.2,PayPal,{},{'Waterproof'},"('BrandC', 'Blue', 'No Warranty')",5.0/5,90
+TXN1265,2024-11-30,  Charlie  ,  Gr0ceries  ,Rice,371.68,1,371.68,  PayPal  ,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandB', 'White', '2 Years')",4.0/5,33
+TXN1266,2024-11-26,  Alice  ,Cl0thing,T-Shirt,350.02,1,350.02,Cash,{},"{'Eco-friendly', 'Waterproof'}","('BrandC', 'White', '1 Year')",3.5/5,90
+TXN1267,2024-02-20,Bob,Electr0nics,Headphones,352.73,2,705.46,Cash,{},"{'Wireless', 'Compact', 'Waterproof'}","('BrandA', 'Black', '2 Years')",4.0/5,16
+TXN1268,2024-02-01,grace,Electr0nics,Smartphone,182.95,3,548.8499999999999,PayPal,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Compact'}","('BrandA', 'White', '1 Year')",5.0/5,42
+TXN1269,2024-07-25,David,Cl0thing,T-Shirt,150.33,2,300.66,PayPal,{},{'Waterproof'},"('BrandC', 'Blue', 'No Warranty')",5.0/5,58
+TXN1270,2024-06-22,Charlie,Electr0nics,Headphones,405.63,1,405.63,Cash,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandC', 'Red', '2 Years')",5.0/5,50
+TXN1271,2024-02-25,nan,Cl0thing,Jacket,406.01,4,1624.04,Credit Card,{},"{'Wireless', 'Waterproof'}","('BrandC', 'Black', '2 Years')",3.5/5,53
+TXN1272,2024-05-07,Hassan,Electr0nics,Tablet,434.2,2,868.4,  Credit Card  ,{},"{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandC', 'White', '2 Years')",4.0/5,23
+TXN1273,2024-04-08,Alice,Cl0thing,Jeans,457.05,1,457.05,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Wireless', 'Compact'}","('BrandC', 'Black', '2 Years')",5.0/5,24
+TXN1274,2024-04-07,Ivy,Electr0nics,Smartphone,258.11,2,516.22,Credit Card,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandB', 'Blue', '1 Year')",5.0/5,70
+TXN1275,2024-10-01,david,Gr0ceries,Bread,253.25,3,759.75,Cash,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandB', 'Blue', '1 Year')",3.5/5,51
+TXN1276,2024-08-17,Bob,  Gr0ceries  ,Eggs,400.16,2,800.32,Credit Card,"{'discount': 5, 'type': 'percentage'}","{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandB', 'Red', '2 Years')",4.5/5,69
+TXN1277,2024-03-12,Hassan,Electr0nics,Headphones,326.73,2,653.46,Credit Card,{},"{'Wireless', 'Waterproof'}","('BrandC', 'Black', 'No Warranty')",,87
+TXN1278,2024-08-04,Charlie,Cl0thing,Jeans,352.47,1,352.47,PayPal,"{'discount': 10, 'type': 'percentage'}","{'Rechargeable', 'Compact'}","('BrandA', 'Blue', '1 Year')",4.0/5,32
+TXN1279,2024-04-03,hassan,Electr0nics,Headphones,398.92,1,398.92,Credit Card,{},"{'Eco-friendly', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",4.5/5,48
+TXN1280,2024-05-22,Ivy,Electr0nics,Tablet,445.55,1,445.55,  PayPal  ,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable'}","('BrandC', 'Red', '1 Year')",3.5/5,28
+TXN1281,2024-08-24,Ivy,Gr0ceries,Eggs,172.31,2,344.62,PayPal,{},"{'Rechargeable', 'Compact'}","('BrandC', 'White', '2 Years')",4.0/5,62
+TXN1282,2024-05-07,Jack,Cl0thing,Jacket,190.91,3,572.73,Cash,{},"{'Wireless', 'Rechargeable'}","('BrandA', 'Blue', '1 Year')",5.0/5,21
+TXN1283,2024-02-08,Faisal,  Gr0ceries  ,Milk,51.52,4,206.08,Cash,"{'discount': 5, 'type': 'percentage'}",{'Compact'},"('BrandC', 'Black', 'No Warranty')",3.5/5,25
+TXN1284,2024-08-14,Hassan,Electr0nics,Tablet,291.25,4,1165.0,Cash,{},"{'Wireless', 'Waterproof'}","('BrandC', 'Black', 'No Warranty')",,27
+TXN1285,2024-10-08,Jack,  Gr0ceries  ,Milk,22.79,1,22.79,Cash,{},{'Eco-friendly'},"('BrandA', 'Black', 'No Warranty')",5.0/5,84
+TXN1286,2024-02-20,Ivy,Cl0thing,Jeans,235.47,1,235.47,PayPal,"{'discount': 15, 'type': 'percentage'}",{'Rechargeable'},"('BrandC', 'Blue', 'No Warranty')",4.0/5,48
+TXN1287,2024-01-26,  Grace  ,Electr0nics,Smartphone,273.61,2,547.22,Cash,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Compact'}","('BrandA', 'White', 'No Warranty')",,70
+TXN1288,2024-11-29,IVY,Electr0nics,Tablet,146.84,4,587.36,  PayPal  ,"{'discount': 5, 'type': 'percentage'}","{'Compact', 'Waterproof'}","('BrandB', 'Blue', '2 Years')",4.0/5,80
+TXN1289,2024-10-03,Hassan,Gr0ceries,Eggs,297.46,1,297.46,Cash,{},{'Eco-friendly'},"('BrandA', 'Red', '1 Year')",4.5/5,83
+TXN1290,2024-01-08,CHARLIE,Cl0thing,T-Shirt,20.1,3,60.300000000000004,  Credit Card  ,"{'discount': 15, 'type': 'percentage'}","{'Eco-friendly', 'Compact'}","('BrandA', 'Blue', '1 Year')",,48
+TXN1291,2024-02-17,Hassan,Cl0thing,Sweater,23.49,3,70.47,Credit Card,"{'discount': 10, 'type': 'percentage'}",{'Wireless'},"('BrandC', 'White', '1 Year')",5.0/5,19
+TXN1292,2024-05-01,Hassan,Cl0thing,T-Shirt,412.19,1,412.19,PayPal,{},{'Wireless'},"('BrandB', 'Blue', '1 Year')",4.0/5,85
+TXN1293,2024-03-26,EMMA,Cl0thing,Jacket,183.29,1,183.29,Credit Card,"{'discount': 15, 'type': 'percentage'}","{'Rechargeable', 'Compact'}","('BrandB', 'Blue', '2 Years')",,91
+TXN1294,2024-07-27,David,Cl0thing,T-Shirt,67.89,4,271.56,Credit Card,"{'discount': 10, 'type': 'percentage'}",{'Waterproof'},"('BrandA', 'Red', '1 Year')",5.0/5,62
+TXN1295,2024-09-05,Emma,Electr0nics,Tablet,263.51,4,1054.04,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandC', 'Blue', '1 Year')",,60
+TXN1296,2024-09-03,Ivy,Electr0nics,Headphones,386.15,2,772.3,Credit Card,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandC', 'Black', '1 Year')",4.5/5,48
+TXN1297,2024-04-19,Hassan,Cl0thing,Jacket,111.83,4,447.32,Credit Card,{},{'Eco-friendly'},"('BrandB', 'White', 'No Warranty')",,70
+TXN1298,2024-07-24,David,Cl0thing,Sweater,313.33,3,939.99,Credit Card,{},"{'Rechargeable', 'Waterproof'}","('BrandA', 'Black', '2 Years')",3.5/5,0
+TXN1299,2024-01-31,Emma,Electr0nics,Headphones,47.25,3,141.75,Cash,{},"{'Eco-friendly', 'Wireless', 'Compact'}","('BrandB', 'Blue', '1 Year')",5.0/5,95
+TXN1203,2024-09-27,  Faisal  ,Gr0ceries,Eggs,449.78,1,449.78,PayPal,{},"{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandC', 'Black', '2 Years')",3.5/5,45
+TXN1266,2024-11-26,  Alice  ,Cl0thing,T-Shirt,350.02,1,350.02,Cash,{},"{'Eco-friendly', 'Waterproof'}","('BrandC', 'White', '1 Year')",3.5/5,90
+TXN1152,2024-12-15,Grace,Electr0nics,Tablet,76.72,2,153.44,PayPal,{},{'Eco-friendly'},"('BrandC', 'White', '1 Year')",4.5/5,35
+TXN1009,2024-10-06,Hassan,Electr0nics,,355.5,4,1422.0,Cash,"{'discount': 5, 'type': 'percentage'}","{'Wireless', 'Rechargeable', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",4.5/5,39
+TXN1233,2024-11-19,Hassan,Cl0thing,,248.8,4,995.2,Cash,{},{'Eco-friendly'},"('BrandA', 'Blue', '1 Year')",4.0/5,20
+TXN1226,2024-10-10,Emma,Cl0thing,Sweater,486.64,3,1459.92,PayPal,{},"{'Eco-friendly', 'Compact'}","('BrandA', 'Blue', 'No Warranty')",3.5/5,40
+TXN1196,2024-03-05,Alice,Cl0thing,Jeans,364.35,1,364.35,Cash,{},"{'Wireless', 'Compact'}","('BrandC', 'Red', '1 Year')",4.5/5,73
+TXN1109,2024-06-10,Emma,Electr0nics,Tablet,43.11,4,172.44,Cash,{},"{'Eco-friendly', 'Wireless', 'Waterproof'}","('BrandA', 'Blue', '1 Year')",5.0/5,82
+TXN1005,2024-04-24,Hassan,Cl0thing,Jeans,82.22,3,246.66,PayPal,{},{'Wireless'},"('BrandB', 'Black', '2 Years')",4.5/5,54
+TXN1175,2024-07-10,BOB,Cl0thing,Sweater,91.31,1,92.31,Credit Card,"{'discount': 5, 'type': 'percentage'}",{'Rechargeable'},"('BrandC', 'Blue', '2 Years')",3.5/5,55
+TXN1237,2024-01-17,Ivy,Cl0thing,Jacket,17.04,1,17.04,Credit Card,"{'discount': 10, 'type': 'percentage'}","{'Eco-friendly', 'Wireless', 'Rechargeable'}","('BrandA', 'Black', '1 Year')",5.0/5,86
+TXN1057,2024-11-12,  Faisal  ,  Gr0ceries  ,Rice,102.01,3,306.03000000000003,PayPal,{},"{'Eco-friendly', 'Rechargeable', 'Waterproof'}","('BrandA', 'Blue', '2 Years')",5.0/5,9
+TXN1218,2024-08-19,Grace,Gr0ceries,Milk,326.57,4,1306.28,PayPal,"{'discount': 15, 'type': 'percentage'}",{'Wireless'},"('BrandA', 'White', 'No Warranty')",3.5/5,71
+TXN1045,2024-06-25,Jack,Electr0nics,Laptop,332.95,1,332.95,PayPal,"{'discount': 5, 'type': 'percentage'}",{'Eco-friendly'},"('BrandA', 'White', '2 Years')",4.5/5,89
+TXN1182,2024-09-07,Jack,Electr0nics,Laptop,462.72,4,1850.88,  PayPal  ,{},{'Wireless'},"('BrandA', 'White', '1 Year')",4.5/5,67
